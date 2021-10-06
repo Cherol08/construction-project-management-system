@@ -1,5 +1,5 @@
 # Construction project management system
-A System that keeps records of a company's construction projects. Allowing users to edit and modify existing projects or save new projects.
+A System that keeps records of a company's construction projects to a file. Allowing users to edit and modify existing projects or save new projects.
 
 It allows user to store the following details about the project:
 * Name of the project
